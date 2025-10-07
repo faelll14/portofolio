@@ -81,7 +81,26 @@ A Telegram Bot designed for OSINT and Pentesting automation.
 
 ### 🖥️ Tools & Environments
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,js,linux,termux,github,vscode,flask,git,bash,sqlite" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,linux,kali,termux,bash,git,github,vscode,flask,docker,sqlite,mysql,mongodb,nginx,arduino,raspberrypi,powershell,postman,firebase,androidstudio,figma,aws,gcp,cloudflare,vim,nmap,metasploit" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Operating%20System-Kali%20Linux%20%7C%20BlackArch%20%7C%20Termux%20%7C%20Ubuntu-black?style=for-the-badge&logo=kalilinux" />
+  <img src="https://img.shields.io/badge/Networking-Wireshark%20%7C%20Nmap%20%7C%20Aircrack--ng%20%7C%20Netcat-blue?style=for-the-badge&logo=wireshark" />
+  <img src="https://img.shields.io/badge/Pentest-BlackHat%20%7C%20WhiteHat%20%7C%20RedTeam-red?style=for-the-badge&logo=matrix" />
+  <img src="https://img.shields.io/badge/IoT-Arduino%20%7C%20ESP32%20%7C%20Raspberry%20Pi%20%7C%20NodeMCU-orange?style=for-the-badge&logo=arduino" />
+  <img src="https://img.shields.io/badge/Programming-Python%20%7C%20JavaScript%20%7C%20Bash%20%7C%20HTML5-yellow?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Framework-Flask%20%7C%20FastAPI%20%7C%20Node.js-green?style=for-the-badge&logo=flask" />
+  <img src="https://img.shields.io/badge/Database-MySQL%20%7C%20SQLite%20%7C%20MongoDB%20%7C%20Redis-lightgrey?style=for-the-badge&logo=mysql" />
+  <img src="https://img.shields.io/badge/Editor-VSCode%20%7C%20Vim%20%7C%20Nano%20%7C%20Android%20Studio-blueviolet?style=for-the-badge&logo=visualstudiocode" />
+  <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20GCP%20%7C%20Cloudflare%20%7C%20Firebase-yellow?style=for-the-badge&logo=cloudflare" />
+  <img src="https://img.shields.io/badge/Security%20Tools-Metasploit%20%7C%20BurpSuite%20%7C%20Hydra%20%7C%20John%20The%20Ripper-critical?style=for-the-badge&logo=metasploit" />
+  <img src="https://img.shields.io/badge/Network%20Simulation-Cisco%20Packet%20Tracer%20%7C%20GNS3%20%7C%20EVE--NG-lightblue?style=for-the-badge&logo=cisco" />
+  <img src="https://img.shields.io/badge/Virtualization-VirtualBox%20%7C%20VMware%20%7C%20QEMU-grey?style=for-the-badge&logo=vmware" />
+  <img src="https://img.shields.io/badge/AI%20%26%20Automation-Python%20%7C%20TensorFlow%20%7C%20OpenAI%20%7C%20LangChain-green?style=for-the-badge&logo=openai" />
+  <img src="https://img.shields.io/badge/Version%20Control-Git%20%7C%20GitHub%20%7C%20GitLab-orange?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/IDE-Termux%20%7C%20VSCode%20%7C%20Acode%20%7C%20Jupyter%20Notebook-9cf?style=for-the-badge&logo=visualstudiocode" />
+  <img src="https://img.shields.io/badge/Design-Figma%20%7C%20Canva%20%7C%20Photoshop%20%7C%20GIMP-purple?style=for-the-badge&logo=figma" />
 </p>
 
 ---
