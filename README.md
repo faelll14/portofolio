@@ -47,21 +47,37 @@ A Telegram Bot designed for OSINT and Pentesting automation.
 
 ---
 
-### 🏆 Certifications
-| Provider | Certificate |
-|-----------|-------------|
-| ISC2 | CC (Certified in Cybersecurity) |
-| EC-Council | Dark Web, Anonymity, and Cryptocurrency |
-| IBM SkillsBuild | Cybersecurity Fundamentals |
-| Fortinet | Fortinet Certified Associate in Cybersecurity |
-| Cisco | Introduction to Cybersecurity & Ethical Hacker |
-| Google | IT Security & Data Analytics |
-| BISA AI | Cybersecurity Essentials using Kali Linux |
-| Cyberacademy.id | Classical Cryptography for Beginners |
-| Codecademy | DevSecOps in AWS, Prompt Engineer |
-| HackerRank | SQL Basic / Intermediate / Advanced |
-| United Nations | Preventing E-Waste |
-| ADBI | CyberSecurity Certification |
+## 🏅 Certifications
+
+| # | Certification Title | Issuer | Badge |
+|---:|--------------------|--------|:-----:|
+| 1 | CC Course Conclusion | ISC2 | ![ISC2](https://img.shields.io/badge/CC%20Course-ISC2-blue?style=flat-square) |
+| 2 | Classical Cryptography for Beginner | Cyberacademy.id | ![Cyberacademy](https://img.shields.io/badge/Classical%20Cryptography-Cyberacademy.id-blue?style=flat-square) |
+| 3 | Introduction to Darkweb, Anonymity and Cryptocurrency | EC-Council | ![EC-Council](https://img.shields.io/badge/Darkweb%20%26%20Anonymity-EC--Council-red?style=flat-square) |
+| 4 | ChatGPT for Cybersecurity | Simplilearn | ![Simplilearn](https://img.shields.io/badge/ChatGPT%20for%20Cybersecurity-Simplilearn-orange?style=flat-square) |
+| 5 | Cybersecurity Essentials with Kali Linux | BISA AI | ![BISA AI](https://img.shields.io/badge/Cybersecurity%20Essentials-BISA%20AI-green?style=flat-square) |
+| 6 | Cyber Threat Intelligence 101 | arcX | ![arcX](https://img.shields.io/badge/Cyber%20Threat%20Intelligence-arcX-blue?style=flat-square) |
+| 7 | Cybersecurity Fundamentals | IBM SkillsBuild | ![IBM](https://img.shields.io/badge/Cybersecurity%20Fundamentals-IBM%20SkillsBuild-blue?style=flat-square) |
+| 8 | CompTIA Security (listed) | Cursa | ![CompTIA](https://img.shields.io/badge/CompTIA%20Security-Cursa-lightgrey?style=flat-square) |
+| 9 | Ethical Hacker | Cisco Networking Academy | ![Cisco](https://img.shields.io/badge/Ethical%20Hacker-Cisco%20Networking%20Academy-blue?style=flat-square) |
+| 10 | Ethical Hacking: Introduction | Cybrary | ![Cybrary](https://img.shields.io/badge/Ethical%20Hacking%20Intro-Cybrary-yellow?style=flat-square) |
+| 11 | Introduction to Cybersecurity | Cisco Networking Academy | ![Cisco Intro](https://img.shields.io/badge/Intro%20to%20Cybersecurity-Cisco-blue?style=flat-square) |
+| 12 | Cybersecurity for Business | EC-Council | ![EC-Council Biz](https://img.shields.io/badge/Cybersecurity%20for%20Business-EC--Council-red?style=flat-square) |
+| 13 | Introduction to Cybersecurity | Cyberacademy.id | ![Cyberacademy Intro](https://img.shields.io/badge/Intro%20to%20Cybersecurity-Cyberacademy.id-blue?style=flat-square) |
+| 14 | IT Security (Google Careers) | Cursa | ![Google IT Sec](https://img.shields.io/badge/IT%20Security-Google%20Careers-lightgrey?style=flat-square) |
+| 15 | Google Analytics Certification | Google | ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-Google-blue?style=flat-square) |
+| 16 | Fortinet Certified Associate in Cybersecurity | Fortinet | ![Fortinet](https://img.shields.io/badge/Fortinet%20Associate-Fortinet-red?style=flat-square) |
+| 17 | Prompt Engineer | Codecademy | ![Codecademy](https://img.shields.io/badge/Prompt%20Engineer-Codecademy-purple?style=flat-square) |
+| 18 | DevSecOps in AWS Course | Codecademy | ![DevSecOps](https://img.shields.io/badge/DevSecOps%20in%20AWS-Codecademy-orange?style=flat-square) |
+| 19 | Securing and Protecting Data | Amazon | ![Amazon](https://img.shields.io/badge/Securing%20%26%20Protecting%20Data-Amazon-yellow?style=flat-square) |
+| 20 | Ethical Hacker for Dummies | Komdigi / Kominfo | ![Komdigi](https://img.shields.io/badge/Ethical%20Hacker%20for%20Dummies-Komdigi%20%2F%20Kominfo-lightgrey?style=flat-square) |
+| 21 | CyberSecurity | ADBI Institute | ![ADBI](https://img.shields.io/badge/CyberSecurity-ADBI%20Institute-blue?style=flat-square) |
+| 22 | Certificate of Participation | HackerVerse / EC-Council | ![HackerVerse](https://img.shields.io/badge/Certificate%20of%20Participation-HackerVerse%20%2F%20EC--Council-green?style=flat-square) |
+| 23 | How to Prevent E-Waste? | United Nations | ![UN](https://img.shields.io/badge/Prevent%20E--Waste-United%20Nations-blue?style=flat-square) |
+| 24 | SQL Basic | HackerRank | ![SQL Basic](https://img.shields.io/badge/SQL%20Basic-HackerRank-orange?style=flat-square) |
+| 25 | SQL Intermediate | HackerRank | ![SQL Intermediate](https://img.shields.io/badge/SQL%20Intermediate-HackerRank-orange?style=flat-square) |
+| 26 | SQL Advanced | HackerRank | ![SQL Advanced](https://img.shields.io/badge/SQL%20Advanced-HackerRank-orange?style=flat-square) |
+| 27 | Basic AI Learning | Dicoding / Indosat / Google Cloud | ![AI Basics](https://img.shields.io/badge/AI%20Basics-Dicoding%20%2F%20Indosat%20%2F%20Google%20Cloud-purple?style=flat-square) |
 
 ---
 
