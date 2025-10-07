@@ -115,3 +115,10 @@ A Telegram Bot designed for OSINT and Pentesting automation.
 ---
 
 ### ⚖️ License
+© 2025 Raffael Putra Hermawan. All Rights Reserved. No content from this repository may be copied, modified, or redistributed without explicit written permission.
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Minecraft&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!;Stay+curious,+stay+secure.">
+</p>
