@@ -1,16 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1a1a2e&height=200&section=header&text=Raffael%20Putra%20Hermawan&fontSize=38&fontColor=ededed&fontAlignY=40&desc=Cybersecurity%20Enthusiast%20%7C%20Ethical%20Hacker%20%7C%20Python%20Developer&descAlignY=62&descSize=14&descColor=888888&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1a1a2e&height=180&section=header&text=Raffael%20Putra%20Hermawan&fontSize=36&fontColor=ededed&fontAlignY=38&desc=Cybersecurity%20Enthusiast%20%7C%20Ethical%20Hacker%20%7C%20Python%20Developer&descAlignY=58&descSize=13&descColor=888888&animation=fadeIn" />
 </div>
 
-<br/>
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1000&color=AAAAAA&center=true&vCenter=true&width=600&lines=Exploring+offensive+security...;Building+Python+security+tools...;Auditing+wireless+protocols...;Analyzing+network+traffic...;Strengthening+digital+defenses." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=1000&color=888888&center=true&vCenter=true&width=580&lines=Exploring+offensive+security...;Building+Python+security+tools...;Auditing+wireless+protocols...;Analyzing+network+traffic...;Strengthening+digital+defenses." />
 </div>
 
-<br/>
-
 <div align="center">
+  <br/>
   <a href="https://raffaelhub.my.id"><img src="https://img.shields.io/badge/Portfolio-raffaelhub.my.id-ededed?style=flat-square&labelColor=111111&logo=googlechrome&logoColor=white" /></a>
   &nbsp;
   <a href="https://github.com/TheRealRafael00"><img src="https://img.shields.io/badge/GitHub-TheRealRafael00-ededed?style=flat-square&labelColor=111111&logo=github&logoColor=white" /></a>
@@ -20,61 +17,55 @@
   <a href="mailto:raffael.dev.sec@gmail.com"><img src="https://img.shields.io/badge/Email-raffael.dev.sec@gmail.com-ededed?style=flat-square&labelColor=111111&logo=gmail&logoColor=white" /></a>
   <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=TheRealRafael00&label=profile+views&color=333333&style=flat-square" />
-  &nbsp;
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/github/followers/TheRealRafael00?label=followers&style=flat-square&color=333333&labelColor=111111" />
 </div>
 
 <br/>
 
----
-
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" width="290" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ### About Me
 
-I'm **Raffael Putra Hermawan** (Ell), a self-taught cybersecurity enthusiast and Python developer based in **Indonesia**. My journey started with Termux exploration, inspired by the world of digital security and offensive tooling.
+I'm **Raffael Putra Hermawan** (Ell), a self-taught cybersecurity enthusiast and Python developer from **Indonesia**. My journey started in Termux, exploring tools and techniques that evolved into a deep passion for offensive security and intelligent automation.
 
-I specialize in penetration testing, OSINT automation, and building intelligent security tools. Currently developing **Xylen Project** — a Telegram-based OSINT and Pentesting assistant written entirely in Python.
+Currently developing **Xylen Project** — a Telegram-based OSINT and Pentesting assistant built entirely in Python.
 
 ```yaml
-name: Raffael Putra Hermawan
-alias: Ell
-location: Indonesia
-languages: Indonesian | English | French | Russian
-focus:
+alias        : Ell
+location     : Indonesia
+languages    : Indonesian | English | French | Russian
+focus        :
   - Offensive Security & Red Team
   - OSINT Automation
   - Python Tool Development
-  - Cyber Intelligence
-open_to:
+  - Digital Forensics & Cyber Intelligence
+open_to      :
   - Internships
   - CTF Teams
-  - Collaborations
-  - Research Projects
+  - Research Collaborations
 ```
 
 <br clear="right"/>
 
----
-
 ### Xylen Project
 
-<img align="left" width="48" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
+<img align="left" width="44" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
 
-A **Telegram Bot** built for OSINT and Pentesting automation — merging cybersecurity workflows with intelligent Python-based tooling.
+&nbsp; A Telegram Bot for OSINT and Pentesting automation — intelligent, modular, Python-powered.
 
 <br/>
 
 | Module | Description |
 |:--|:--|
 | `OSINT Search` | Cross-platform data gathering |
-| `FileInt` | File metadata analysis and EXIF extraction |
-| `QRGen` | Advanced QR generator with color and transparency |
+| `FileInt` | File metadata & EXIF extraction |
+| `QRGen` | Advanced QR generator with color & transparency |
 | `PhoneInt` | Phone number info and ISP lookup |
 | `URL Checker` | Deep link inspection and IP resolution |
 | `AutBugHunt` | Automated bug scan via curl and request probing |
 
----
+<br/>
 
 ### Skill Matrix
 
@@ -88,8 +79,6 @@ IoT Systems           ████████████░░░░░░░�
 Ethical Hacking       ██████████░░░░░░░░░░  50%
 Kali Linux Commands   ██████░░░░░░░░░░░░░░  30%
 ```
-
----
 
 ### Tech Stack
 
@@ -105,74 +94,72 @@ Kali Linux Commands   ██████░░░░░░░░░░░░░�
 
 <div align="center">
 
-**Security Tools**
+**Security Tools** &nbsp;·&nbsp; `Burp Suite` `Metasploit` `Nmap` `Wireshark` `Aircrack-ng` `Hydra` `Hashcat` `John the Ripper` `SQLmap` `Nikto` `Gobuster` `Wifite` `Bettercap` `Amass` `Subfinder` `theHarvester` `Recon-ng` `Kismet` `tcpdump` `Netcat`
 
-`Burp Suite` &nbsp; `Metasploit` &nbsp; `Nmap` &nbsp; `Wireshark` &nbsp; `Aircrack-ng` &nbsp; `Hydra` &nbsp; `Hashcat` &nbsp; `John the Ripper` &nbsp; `SQLmap` &nbsp; `Nikto` &nbsp; `Gobuster` &nbsp; `Wifite` &nbsp; `Bettercap` &nbsp; `Amass` &nbsp; `Subfinder` &nbsp; `theHarvester` &nbsp; `Recon-ng` &nbsp; `Kismet` &nbsp; `tcpdump` &nbsp; `Netcat`
-
-**Environments**
-
-`Kali Linux` &nbsp; `BlackArch` &nbsp; `Ubuntu` &nbsp; `Termux` &nbsp; `VirtualBox` &nbsp; `VMware` &nbsp; `QEMU` &nbsp; `GNS3` &nbsp; `EVE-NG` &nbsp; `Cisco Packet Tracer`
+**Environments** &nbsp;·&nbsp; `Kali Linux` `BlackArch` `Ubuntu` `Termux` `VirtualBox` `VMware` `QEMU` `GNS3` `EVE-NG` `Cisco Packet Tracer`
 
 </div>
 
----
+<br/>
 
 ### Certifications
+
+> Upload all cert images (`my.jpg`, `myy.jpg`, ...) to the root of this repo for images to display.
 
 <div align="center">
 <table>
 <tr>
-<td align="center"><img src="https://raw.githubusercontent.com/TheRealRafael00/TheRealRafael00/main/my.jpg" width="190" /><br/><sub><b>CC Course Conclusion</b></sub><br/><sub>ISC2</sub></td>
-<td align="center"><img src="https://raw.githubusercontent.com/TheRealRafael00/TheRealRafael00/main/myy.jpg" width="190" /><br/><sub><b>Classical Cryptography for Beginners</b></sub><br/><sub>Cyberacademy.id</sub></td>
-<td align="center"><img src="https://raw.githubusercontent.com/TheRealRafael00/TheRealRafael00/main/myyy.jpg" width="190" /><br/><sub><b>Intro to Dark Web, Anonymity & Crypto</b></sub><br/><sub>EC-COUNCIL</sub></td>
-<td align="center"><img src="https://raw.githubusercontent.com/TheRealRafael00/TheRealRafael00/main/myyyy.jpg" width="190" /><br/><sub><b>ChatGPT for Cybersecurity</b></sub><br/><sub>Simplilearn</sub></td>
+<td align="center"><img src="my.jpg" width="185" /><br/><sub><b>CC Course Conclusion</b></sub><br/><sub>ISC2</sub></td>
+<td align="center"><img src="myy.jpg" width="185" /><br/><sub><b>Classical Cryptography for Beginners</b></sub><br/><sub>Cyberacademy.id</sub></td>
+<td align="center"><img src="myyy.jpg" width="185" /><br/><sub><b>Intro to Dark Web, Anonymity & Crypto</b></sub><br/><sub>EC-COUNCIL</sub></td>
+<td align="center"><img src="myyyy.jpg" width="185" /><br/><sub><b>ChatGPT for Cybersecurity</b></sub><br/><sub>Simplilearn</sub></td>
 </tr>
 <tr>
-<td align="center"><img src="https://raw.githubusercontent.com/TheRealRafael00/TheRealRafael00/main/myyyyy.jpg" width="190" /><br/><sub><b>Cybersecurity Essentials with Kali Linux</b></sub><br/><sub>BISA AI</sub></td>
-<td align="center"><img src="https://raw.githubusercontent.com/TheRealRafael00/TheRealRafael00/main/myyyyyy.jpg" width="190" /><br/><sub><b>Cyber Threat Intelligence 101</b></sub><br/><sub>arcX</sub></td>
-<td align="center"><img src="https://raw.githubusercontent.com/TheRealRafael00/TheRealRafael00/main/myyyyyyy.jpg" width="190" /><br/><sub><b>Cybersecurity Fundamentals</b></sub><br/><sub>IBM Skills Build</sub></td>
-<td align="center"><img src="https://raw.githubusercontent.com/TheRealRafael00/TheRealRafael00/main/myyyyyyyy.jpg" width="190" /><br/><sub><b>CompTIA Security+</b></sub><br/><sub>Cursa</sub></td>
+<td align="center"><img src="myyyyy.jpg" width="185" /><br/><sub><b>Cybersecurity Essentials with Kali Linux</b></sub><br/><sub>BISA AI</sub></td>
+<td align="center"><img src="myyyyyy.jpg" width="185" /><br/><sub><b>Cyber Threat Intelligence 101</b></sub><br/><sub>arcX</sub></td>
+<td align="center"><img src="myyyyyyy.jpg" width="185" /><br/><sub><b>Cybersecurity Fundamentals</b></sub><br/><sub>IBM Skills Build</sub></td>
+<td align="center"><img src="myyyyyyyy.jpg" width="185" /><br/><sub><b>CompTIA Security+</b></sub><br/><sub>Cursa</sub></td>
 </tr>
 <tr>
-<td align="center"><img src="https://raw.githubusercontent.com/TheRealRafael00/TheRealRafael00/main/myyyyyyyyy.jpg" width="190" /><br/><sub><b>Ethical Hacker</b></sub><br/><sub>Cisco Networking Academy</sub></td>
-<td align="center"><img src="https://raw.githubusercontent.com/TheRealRafael00/TheRealRafael00/main/myyyyyyyyyy.jpg" width="190" /><br/><sub><b>Ethical Hacking: Introduction</b></sub><br/><sub>Cybrary</sub></td>
-<td align="center"><img src="https://raw.githubusercontent.com/TheRealRafael00/TheRealRafael00/main/myyyyyyyyyyy.jpg" width="190" /><br/><sub><b>Introduction to Cybersecurity</b></sub><br/><sub>Cisco Networking Academy</sub></td>
-<td align="center"><img src="https://raw.githubusercontent.com/TheRealRafael00/TheRealRafael00/main/myyyyyyyyyyyy.jpg" width="190" /><br/><sub><b>Cybersecurity for Business</b></sub><br/><sub>EC-COUNCIL</sub></td>
+<td align="center"><img src="myyyyyyyyy.jpg" width="185" /><br/><sub><b>Ethical Hacker</b></sub><br/><sub>Cisco Networking Academy</sub></td>
+<td align="center"><img src="myyyyyyyyyy.jpg" width="185" /><br/><sub><b>Ethical Hacking: Introduction</b></sub><br/><sub>Cybrary</sub></td>
+<td align="center"><img src="myyyyyyyyyyy.jpg" width="185" /><br/><sub><b>Introduction to Cybersecurity</b></sub><br/><sub>Cisco Networking Academy</sub></td>
+<td align="center"><img src="myyyyyyyyyyyy.jpg" width="185" /><br/><sub><b>Cybersecurity for Business</b></sub><br/><sub>EC-COUNCIL</sub></td>
 </tr>
 <tr>
-<td align="center"><img src="https://raw.githubusercontent.com/TheRealRafael00/TheRealRafael00/main/myyyyyyyyyyyyy.jpg" width="190" /><br/><sub><b>Introduction to Cybersecurity</b></sub><br/><sub>Cyberacademy.id</sub></td>
-<td align="center"><img src="https://raw.githubusercontent.com/TheRealRafael00/TheRealRafael00/main/myyyyyyyyyyyyyy.jpg" width="190" /><br/><sub><b>IT Security by Google Careers</b></sub><br/><sub>Cursa</sub></td>
-<td align="center"><img src="https://raw.githubusercontent.com/TheRealRafael00/TheRealRafael00/main/myyyyyyyyyyyyyyy.jpg" width="190" /><br/><sub><b>Google Analytics Certification</b></sub><br/><sub>Google</sub></td>
-<td align="center"><img src="https://raw.githubusercontent.com/TheRealRafael00/TheRealRafael00/main/myyyyyyyyyyyyyyyy.jpg" width="190" /><br/><sub><b>Fortinet Certified Associate</b></sub><br/><sub>Fortinet</sub></td>
+<td align="center"><img src="myyyyyyyyyyyyy.jpg" width="185" /><br/><sub><b>Introduction to Cybersecurity</b></sub><br/><sub>Cyberacademy.id</sub></td>
+<td align="center"><img src="myyyyyyyyyyyyyy.jpg" width="185" /><br/><sub><b>IT Security by Google Careers</b></sub><br/><sub>Cursa</sub></td>
+<td align="center"><img src="myyyyyyyyyyyyyyy.jpg" width="185" /><br/><sub><b>Google Analytics Certification</b></sub><br/><sub>Google</sub></td>
+<td align="center"><img src="myyyyyyyyyyyyyyyy.jpg" width="185" /><br/><sub><b>Fortinet Certified Associate</b></sub><br/><sub>Fortinet</sub></td>
 </tr>
 <tr>
-<td align="center"><img src="https://raw.githubusercontent.com/TheRealRafael00/TheRealRafael00/main/myyyyyyyyyyyyyyyyy.jpg" width="190" /><br/><sub><b>Prompt Engineering</b></sub><br/><sub>Codecademy</sub></td>
-<td align="center"><img src="https://raw.githubusercontent.com/TheRealRafael00/TheRealRafael00/main/myyyyyyyyyyyyyyyyyy.jpg" width="190" /><br/><sub><b>DevSecOps in AWS Course</b></sub><br/><sub>Codecademy</sub></td>
-<td align="center"><img src="https://raw.githubusercontent.com/TheRealRafael00/TheRealRafael00/main/myyyyyyyyyyyyyyyyyyy.jpg" width="190" /><br/><sub><b>Securing and Protecting Data</b></sub><br/><sub>Amazon</sub></td>
-<td align="center"><img src="https://raw.githubusercontent.com/TheRealRafael00/TheRealRafael00/main/myyyyyyyyyyyyyyyyyyyy.jpg" width="190" /><br/><sub><b>Ethical Hacker for Dummies</b></sub><br/><sub>Komdigi / Kominfo</sub></td>
+<td align="center"><img src="myyyyyyyyyyyyyyyyy.jpg" width="185" /><br/><sub><b>Prompt Engineering</b></sub><br/><sub>Codecademy</sub></td>
+<td align="center"><img src="myyyyyyyyyyyyyyyyyy.jpg" width="185" /><br/><sub><b>DevSecOps in AWS Course</b></sub><br/><sub>Codecademy</sub></td>
+<td align="center"><img src="myyyyyyyyyyyyyyyyyyy.jpg" width="185" /><br/><sub><b>Securing and Protecting Data</b></sub><br/><sub>Amazon</sub></td>
+<td align="center"><img src="myyyyyyyyyyyyyyyyyyyy.jpg" width="185" /><br/><sub><b>Ethical Hacker for Dummies</b></sub><br/><sub>Komdigi / Kominfo</sub></td>
 </tr>
 <tr>
-<td align="center"><img src="https://raw.githubusercontent.com/TheRealRafael00/TheRealRafael00/main/myyyyyyyyyyyyyyyyyyyyy.jpg" width="190" /><br/><sub><b>CyberSecurity</b></sub><br/><sub>ADBI Institute</sub></td>
-<td align="center"><img src="https://raw.githubusercontent.com/TheRealRafael00/TheRealRafael00/main/myyyyyyyyyyyyyyyyyyyyyy.jpg" width="190" /><br/><sub><b>Certificate of Participation</b></sub><br/><sub>HackerVerse / EC-COUNCIL</sub></td>
-<td align="center"><img src="https://raw.githubusercontent.com/TheRealRafael00/TheRealRafael00/main/myyyyyyyyyyyyyyyyyyyyyyy.jpg" width="190" /><br/><sub><b>How to Prevent E-Waste?</b></sub><br/><sub>United Nations</sub></td>
-<td align="center"><img src="https://raw.githubusercontent.com/TheRealRafael00/TheRealRafael00/main/myyyyyyyyyyyyyyyyyyyyyyyy.jpg" width="190" /><br/><sub><b>SQL Basic</b></sub><br/><sub>HackerRank</sub></td>
+<td align="center"><img src="myyyyyyyyyyyyyyyyyyyyy.jpg" width="185" /><br/><sub><b>CyberSecurity</b></sub><br/><sub>ADBI Institute</sub></td>
+<td align="center"><img src="myyyyyyyyyyyyyyyyyyyyyy.jpg" width="185" /><br/><sub><b>Certificate of Participation</b></sub><br/><sub>HackerVerse / EC-COUNCIL</sub></td>
+<td align="center"><img src="myyyyyyyyyyyyyyyyyyyyyyy.jpg" width="185" /><br/><sub><b>How to Prevent E-Waste?</b></sub><br/><sub>United Nations</sub></td>
+<td align="center"><img src="myyyyyyyyyyyyyyyyyyyyyyyy.jpg" width="185" /><br/><sub><b>SQL Basic</b></sub><br/><sub>HackerRank</sub></td>
 </tr>
 <tr>
-<td align="center"><img src="https://raw.githubusercontent.com/TheRealRafael00/TheRealRafael00/main/myyyyyyyyyyyyyyyyyyyyyyyyy.jpg" width="190" /><br/><sub><b>SQL Intermediate</b></sub><br/><sub>HackerRank</sub></td>
-<td align="center"><img src="https://raw.githubusercontent.com/TheRealRafael00/TheRealRafael00/main/myyyyyyyyyyyyyyyyyyyyyyyyyy.jpg" width="190" /><br/><sub><b>SQL Advanced</b></sub><br/><sub>HackerRank</sub></td>
-<td align="center"><img src="https://raw.githubusercontent.com/TheRealRafael00/TheRealRafael00/main/myyyyyyyyyyyyyyyyyyyyyyyyyyy.jpg" width="190" /><br/><sub><b>Belajar Dasar AI</b></sub><br/><sub>Dicoding — Indosat — Google Cloud</sub></td>
-<td align="center"><img src="https://raw.githubusercontent.com/TheRealRafael00/TheRealRafael00/main/myyyyyyyyyyyyyyyyyyyyyyyyyyyy.jpg" width="190" /><br/><sub><b>Seminar Nasional IT Holic</b></sub><br/><sub>Himatif UTB</sub></td>
+<td align="center"><img src="myyyyyyyyyyyyyyyyyyyyyyyyy.jpg" width="185" /><br/><sub><b>SQL Intermediate</b></sub><br/><sub>HackerRank</sub></td>
+<td align="center"><img src="myyyyyyyyyyyyyyyyyyyyyyyyyy.jpg" width="185" /><br/><sub><b>SQL Advanced</b></sub><br/><sub>HackerRank</sub></td>
+<td align="center"><img src="myyyyyyyyyyyyyyyyyyyyyyyyyyy.jpg" width="185" /><br/><sub><b>Belajar Dasar AI</b></sub><br/><sub>Dicoding — Indosat — Google Cloud</sub></td>
+<td align="center"><img src="myyyyyyyyyyyyyyyyyyyyyyyyyyyy.jpg" width="185" /><br/><sub><b>Seminar Nasional IT Holic</b></sub><br/><sub>Himatif UTB</sub></td>
 </tr>
 <tr>
-<td align="center"><img src="https://raw.githubusercontent.com/TheRealRafael00/TheRealRafael00/main/myyyyyyyyyyyyyyyyyyyyyyyyyyyyy.jpg" width="190" /><br/><sub><b>Webinar Broken Access Control</b></sub><br/><sub>Merdeka Siber</sub></td>
-<td align="center"><img src="https://raw.githubusercontent.com/TheRealRafael00/TheRealRafael00/main/myyyyyyyyyyyyyyyyyyyyyyyyyyyyyy.jpg" width="190" /><br/><sub><b>Membangun Lab Virtual dan Dasar Linux</b></sub><br/><sub>Digital Talent Scholarship — Komdigi</sub></td>
-<td align="center"><img src="https://raw.githubusercontent.com/TheRealRafael00/TheRealRafael00/main/myyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy.jpg" width="190" /><br/><sub><b>Securing Your Data in Amazon S3</b></sub><br/><sub>AWS Training & Certification</sub></td>
+<td align="center"><img src="myyyyyyyyyyyyyyyyyyyyyyyyyyyyy.jpg" width="185" /><br/><sub><b>Webinar Broken Access Control</b></sub><br/><sub>Merdeka Siber</sub></td>
+<td align="center"><img src="myyyyyyyyyyyyyyyyyyyyyyyyyyyyyy.jpg" width="185" /><br/><sub><b>Membangun Lab Virtual dan Dasar Linux</b></sub><br/><sub>Digital Talent Scholarship — Komdigi</sub></td>
+<td align="center"><img src="myyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy.jpg" width="185" /><br/><sub><b>Securing Your Data in Amazon S3</b></sub><br/><sub>AWS Training & Certification</sub></td>
 <td align="center"></td>
 </tr>
 </table>
 </div>
 
----
+<br/>
 
 ### GitHub Analytics
 
@@ -182,23 +169,13 @@ Kali Linux Commands   ██████░░░░░░░░░░░░░�
   <br/><br/>
   <img src="https://streak-stats.demolab.com?user=TheRealRafael00&theme=dark&hide_border=true&background=0d0d0d&stroke=1c1c1c&ring=888888&fire=ededed&currStreakLabel=ededed&sideLabels=666666&dates=444444&sideNums=ededed&currStreakNum=ededed" />
   <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheRealRafael00&bg_color=0d0d0d&color=666666&line=888888&point=ededed&hide_border=true&area=true&area_color=1a1a1a" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheRealRafael00&bg_color=0d0d0d&color=666666&line=555555&point=ededed&hide_border=true&area=true&area_color=111111" />
 </div>
 
----
-
-### Contribution
+<br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/TheRealRafael00/TheRealRafael00/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0d0d0d&height=100&section=footer&text=Stay%20curious.%20Stay%20secure.&fontSize=14&fontColor=444444&fontAlignY=65&animation=fadeIn" />
-</div>
-
-<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0d0d0d&height=90&section=footer&animation=fadeIn" />
+  <br/>
   <sub>© 2026 Raffael Putra Hermawan · All Rights Reserved · No content may be copied or redistributed without explicit written permission.</sub>
 </div>
