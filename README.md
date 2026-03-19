@@ -80,6 +80,31 @@ Ethical Hacking       ██████████░░░░░░░░░�
 Kali Linux Commands   ██████░░░░░░░░░░░░░░  30%
 ```
 
+### AI Tools Proficiency
+
+<div align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="260" />
+</div>
+
+Proficient in leveraging large language models and AI assistants as part of daily development, security research, and automation workflows. Not just a user — I integrate AI into my toolchain for code generation, threat analysis, OSINT correlation, and rapid prototyping.
+
+| Model | Use Case |
+|:--|:--|
+| `ChatGPT` | Code generation, debugging, security writeups |
+| `Claude` | Long-form reasoning, code review, documentation |
+| `Gemini` | Multimodal analysis, research synthesis |
+| `Grok` | Real-time intelligence, social OSINT context |
+| `DeepSeek` | Technical deep dives, math-heavy problems |
+| `Blackbox AI` | In-editor code completion and refactoring |
+
+<br/>
+
+### Projects
+
+All active projects and repositories are available at **[github.com/TheRealRafael00](https://github.com/TheRealRafael00)** — including Xylen Project and other security tools, Python bots, and automation scripts in development.
+
+<br/>
+
 ### Tech Stack
 
 <div align="center">
