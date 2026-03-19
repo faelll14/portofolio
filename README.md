@@ -1,159 +1,290 @@
-<!-- Raffael Putra Hermawan GitHub README -->
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=CMATRIX&size=45&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=900&lines=Raffael+Putra+Hermawan;Cybersecurity+%26+Ethical+Hacker;Developer+of+Xylen+Project;Red+Team+Cybersecurity" alt="Typing SVG" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2800&pause=1200&color=EDEDED&background=00000000&center=true&vCenter=true&width=720&lines=Raffael+Putra+Hermawan;Cybersecurity+Enthusiast;Ethical+Hacker+in+Training;Developer+of+Xylen+Project;Red+Team+%7C+OSINT+%7C+Python" alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Focus-Cybersecurity%20%7C%20OSINT-red?style=for-the-badge&logo=kalilinux" />
-  <img src="https://img.shields.io/badge/Language-Python%20%7C%20HTML%20%7C%20JS-yellow?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Platform-Termux%20%7C%20Linux-blue?style=for-the-badge&logo=linux" />
-  <img src="https://komarev.com/ghpvc/?username=raffaelhub&label=Visitors&color=ff0000&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/raffaelhub?style=for-the-badge&logo=github&label=Followers" />
-</p>
+<br/>
+<br/>
 
----
+[![Website](https://img.shields.io/badge/raffaelhub.my.id-0a0a0a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://raffaelhub.my.id)
+[![GitHub Primary](https://img.shields.io/badge/TheRealRafael00-0a0a0a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheRealRafael00)
+[![GitHub Secondary](https://img.shields.io/badge/faelll14-0a0a0a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/faelll14)
+[![Email](https://img.shields.io/badge/raffael.dev.sec%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raffael.dev.sec@gmail.com)
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Minecraft&size=28&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=About+Me" alt="About Me" />
-</h2>
+<br/>
 
-> Hi there 👋  
-> I’m **Raffael Putra Hermawan**, a **Cybersecurity Enthusiast** and **Ethical Hacker in training**.  
-> Passionate about **penetration testing, digital forensics, OSINT, and automation systems**.  
-> I build tools that merge cybersecurity with intelligent automation — currently developing **Xylen Project**, a Telegram-based OSINT and Pentest assistant written in Python.  
+[![Status](https://img.shields.io/badge/STATUS-ACTIVE-brightgreen?style=flat-square)](https://raffaelhub.my.id)
+[![Focus](https://img.shields.io/badge/FOCUS-CYBERSECURITY%20%7C%20OSINT%20%7C%20RED%20TEAM-cc0000?style=flat-square)](https://raffaelhub.my.id)
+[![Location](https://img.shields.io/badge/LOCATION-INDONESIA-ce1126?style=flat-square)](https://raffaelhub.my.id)
+[![Languages](https://img.shields.io/badge/LANG-ID%20%7C%20EN%20%7C%20FR%20%7C%20RU-555555?style=flat-square)](https://raffaelhub.my.id)
+[![Open To](https://img.shields.io/badge/OPEN%20TO-INTERNSHIPS%20%7C%20COLLAB%20%7C%20CTF-0a84ff?style=flat-square)](mailto:raffael.dev.sec@gmail.com)
+[![Visitors](https://komarev.com/ghpvc/?username=TheRealRafael00&label=VISITORS&color=555555&style=flat-square)](https://github.com/TheRealRafael00)
+
+</div>
 
 ---
 
-### 🧠 My Expertise
-- 🕶️ **Ethical Hacking & Pentesting** — Vulnerability scanning, recon, and exploitation simulation.  
-- 🛰️ **OSINT Automation** — Data correlation, metadata analysis, and identity tracking.  
-- ⚙️ **IoT Security** — Embedded device hardening and access control.  
-- 💾 **Python Development** — Telegram bot, Flask web apps, and backend tools.  
-- 💡 **Cyber Intelligence** — Threat profiling, dark web tracing, and behavior analytics.
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────────────────┐
+│                                                                         │
+│   RAFFAEL PUTRA HERMAWAN  ·  Ell                                        │
+│   Cybersecurity Enthusiast  |  Ethical Hacker in Training               │
+│   Python Developer  |  OSINT Specialist  |  Red Team Learner            │
+│                                                                         │
+│   Focused on penetration testing, digital forensics, OSINT, and         │
+│   intelligent automation. Currently developing Xylen Project —          │
+│   a Telegram-based OSINT and Pentesting assistant in Python.            │
+│                                                                         │
+│   Typing Speed: 100 WPM  ·  Night Mode: Always On  ·  Coffee-Powered   │
+│   Brain Uptime: 99.9%   ·  Mindset: Never Give Up                      │
+│                                                                         │
+└─────────────────────────────────────────────────────────────────────────┘
+```
+
+</div>
 
 ---
 
-### 🚀 Major Project: Xylen Project
-A Telegram Bot designed for OSINT and Pentesting automation.
-#### 🔧 Modules include:
-- **OSINT Search** – Cross-platform data gathering.  
-- **FileInt** – File metadata analysis and EXIF extraction.  
-- **QRGen** – Advanced QR generator with color and transparency options.  
-- **PhoneInt** – Phone number information and ISP lookup.  
-- **URL Checker** – Deep inspection and IP resolution.  
-- **AutBugHunt** – Automated bug scan using `curl` and request probing.  
+## EXPERTISE
+
+<div align="center">
+
+| Domain | Specialization |
+|:---|:---|
+| ![Pentesting](https://img.shields.io/badge/Ethical%20Hacking%20%26%20Pentesting-cc0000?style=flat-square) | Vulnerability scanning, recon, and exploitation simulation |
+| ![OSINT](https://img.shields.io/badge/OSINT%20Automation-0066cc?style=flat-square) | Data correlation, metadata analysis, and identity tracking |
+| ![IoT](https://img.shields.io/badge/IoT%20Security-ff6600?style=flat-square) | Embedded device hardening and access control |
+| ![Python](https://img.shields.io/badge/Python%20Development-3776AB?style=flat-square&logo=python&logoColor=white) | Telegram bots, Flask web apps, FastAPI, and backend tooling |
+| ![Intel](https://img.shields.io/badge/Cyber%20Intelligence-6600cc?style=flat-square) | Threat profiling, dark web tracing, and behavior analytics |
+| ![Wireless](https://img.shields.io/badge/Wireless%20Security-009900?style=flat-square) | Auditing wireless protocols and network traffic analysis |
+| ![Forensics](https://img.shields.io/badge/Digital%20Forensics-333333?style=flat-square) | File metadata analysis, EXIF extraction, artifact recovery |
+| ![Network](https://img.shields.io/badge/Network%20Simulation-1679A7?style=flat-square) | Cisco Packet Tracer, GNS3, EVE-NG |
+| ![AI](https://img.shields.io/badge/AI%20%26%20Automation-00AA44?style=flat-square) | Python scripting, OpenAI integration, LangChain workflows |
+
+</div>
 
 ---
 
-## 🏅 Certifications
+## XYLEN PROJECT
 
-| # | Certification Title | Issuer | Badge |
-|---:|--------------------|--------|:-----:|
-| 1 | CC Course Conclusion | ISC2 | ![ISC2](https://img.shields.io/badge/CC%20Course-ISC2-blue?style=flat-square) |
-| 2 | Classical Cryptography for Beginner | Cyberacademy.id | ![Cyberacademy](https://img.shields.io/badge/Classical%20Cryptography-Cyberacademy.id-blue?style=flat-square) |
-| 3 | Introduction to Darkweb, Anonymity and Cryptocurrency | EC-Council | ![EC-Council](https://img.shields.io/badge/Darkweb%20%26%20Anonymity-EC--Council-red?style=flat-square) |
-| 4 | ChatGPT for Cybersecurity | Simplilearn | ![Simplilearn](https://img.shields.io/badge/ChatGPT%20for%20Cybersecurity-Simplilearn-orange?style=flat-square) |
-| 5 | Cybersecurity Essentials with Kali Linux | BISA AI | ![BISA AI](https://img.shields.io/badge/Cybersecurity%20Essentials-BISA%20AI-green?style=flat-square) |
-| 6 | Cyber Threat Intelligence 101 | arcX | ![arcX](https://img.shields.io/badge/Cyber%20Threat%20Intelligence-arcX-blue?style=flat-square) |
-| 7 | Cybersecurity Fundamentals | IBM SkillsBuild | ![IBM](https://img.shields.io/badge/Cybersecurity%20Fundamentals-IBM%20SkillsBuild-blue?style=flat-square) |
-| 8 | CompTIA Security (listed) | Cursa | ![CompTIA](https://img.shields.io/badge/CompTIA%20Security-Cursa-lightgrey?style=flat-square) |
-| 9 | Ethical Hacker | Cisco Networking Academy | ![Cisco](https://img.shields.io/badge/Ethical%20Hacker-Cisco%20Networking%20Academy-blue?style=flat-square) |
-| 10 | Ethical Hacking: Introduction | Cybrary | ![Cybrary](https://img.shields.io/badge/Ethical%20Hacking%20Intro-Cybrary-yellow?style=flat-square) |
-| 11 | Introduction to Cybersecurity | Cisco Networking Academy | ![Cisco Intro](https://img.shields.io/badge/Intro%20to%20Cybersecurity-Cisco-blue?style=flat-square) |
-| 12 | Cybersecurity for Business | EC-Council | ![EC-Council Biz](https://img.shields.io/badge/Cybersecurity%20for%20Business-EC--Council-red?style=flat-square) |
-| 13 | Introduction to Cybersecurity | Cyberacademy.id | ![Cyberacademy Intro](https://img.shields.io/badge/Intro%20to%20Cybersecurity-Cyberacademy.id-blue?style=flat-square) |
-| 14 | IT Security (Google Careers) | Cursa | ![Google IT Sec](https://img.shields.io/badge/IT%20Security-Google%20Careers-lightgrey?style=flat-square) |
-| 15 | Google Analytics Certification | Google | ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-Google-blue?style=flat-square) |
-| 16 | Fortinet Certified Associate in Cybersecurity | Fortinet | ![Fortinet](https://img.shields.io/badge/Fortinet%20Associate-Fortinet-red?style=flat-square) |
-| 17 | Prompt Engineer | Codecademy | ![Codecademy](https://img.shields.io/badge/Prompt%20Engineer-Codecademy-purple?style=flat-square) |
-| 18 | DevSecOps in AWS Course | Codecademy | ![DevSecOps](https://img.shields.io/badge/DevSecOps%20in%20AWS-Codecademy-orange?style=flat-square) |
-| 19 | Securing and Protecting Data | Amazon | ![Amazon](https://img.shields.io/badge/Securing%20%26%20Protecting%20Data-Amazon-yellow?style=flat-square) |
-| 20 | Ethical Hacker for Dummies | Komdigi / Kominfo | ![Komdigi](https://img.shields.io/badge/Ethical%20Hacker%20for%20Dummies-Komdigi%20%2F%20Kominfo-lightgrey?style=flat-square) |
-| 21 | CyberSecurity | ADBI Institute | ![ADBI](https://img.shields.io/badge/CyberSecurity-ADBI%20Institute-blue?style=flat-square) |
-| 22 | Certificate of Participation | HackerVerse / EC-Council | ![HackerVerse](https://img.shields.io/badge/Certificate%20of%20Participation-HackerVerse%20%2F%20EC--Council-green?style=flat-square) |
-| 23 | How to Prevent E-Waste? | United Nations | ![UN](https://img.shields.io/badge/Prevent%20E--Waste-United%20Nations-blue?style=flat-square) |
-| 24 | SQL Basic | HackerRank | ![SQL Basic](https://img.shields.io/badge/SQL%20Basic-HackerRank-orange?style=flat-square) |
-| 25 | SQL Intermediate | HackerRank | ![SQL Intermediate](https://img.shields.io/badge/SQL%20Intermediate-HackerRank-orange?style=flat-square) |
-| 26 | SQL Advanced | HackerRank | ![SQL Advanced](https://img.shields.io/badge/SQL%20Advanced-HackerRank-orange?style=flat-square) |
-| 27 | Basic AI Learning | Dicoding / Indosat / Google Cloud | ![AI Basics](https://img.shields.io/badge/AI%20Basics-Dicoding%20%2F%20Indosat%20%2F%20Google%20Cloud-purple?style=flat-square) |
+<div align="center">
+
+[![Xylen](https://img.shields.io/badge/XYLEN%20PROJECT-Telegram%20OSINT%20%26%20Pentest%20Automation-0a0a0a?style=for-the-badge&logo=telegram&logoColor=white)](#)
+[![Language](https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
+[![Platform](https://img.shields.io/badge/Platform-Telegram%20Bot%20API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](#)
+
+</div>
+
+```
+  A Telegram Bot designed for OSINT and Pentesting automation.
+  Merging cybersecurity workflows with intelligent Python-based automation.
+```
+
+<div align="center">
+
+| Module | Function |
+|:---|:---|
+| ![OSINT](https://img.shields.io/badge/OSINT%20Search-0066cc?style=flat-square) | Cross-platform data gathering |
+| ![FileInt](https://img.shields.io/badge/FileInt-555555?style=flat-square) | File metadata analysis and EXIF extraction |
+| ![QRGen](https://img.shields.io/badge/QRGen-009900?style=flat-square) | Advanced QR generator with color and transparency options |
+| ![PhoneInt](https://img.shields.io/badge/PhoneInt-cc6600?style=flat-square) | Phone number information and ISP lookup |
+| ![URLCheck](https://img.shields.io/badge/URL%20Checker-6600cc?style=flat-square) | Deep inspection and IP resolution |
+| ![AutBugHunt](https://img.shields.io/badge/AutBugHunt-cc0000?style=flat-square) | Automated bug scan using curl and request probing |
+
+</div>
 
 ---
 
-### 📊 Skill Chart
-| Skill | Level |
-|-------|--------|
-| Kali Linux Commands | ███▒▒▒▒▒▒ 30% |
-| Termux Commands | ████████▒▒ 90% |
-| Cyber Intelligence | █████▒▒▒▒ 60% |
-| Ethical Hacking | █████▒▒▒▒ 50% |
-| OSINT | ███████▒▒▒ 70% |
-| IoT Systems | █████▒▒▒▒ 60% |
-| Python Programming | ███████▒▒▒ 75% |
-| Social Engineering | ███████▒▒▒ 72% |
+## SKILL MATRIX
+
+<div align="center">
+
+```
+  Termux Commands       ████████████████████  90%
+  Python Programming    ███████████████░░░░░  75%
+  Social Engineering    ██████████████░░░░░░  72%
+  OSINT                 ██████████████░░░░░░  70%
+  Cyber Intelligence    ████████████░░░░░░░░  60%
+  IoT Systems           ████████████░░░░░░░░  60%
+  Ethical Hacking       ██████████░░░░░░░░░░  50%
+  Kali Linux Commands   ██████░░░░░░░░░░░░░░  30%
+```
+
+</div>
 
 ---
 
-### 🖥️ Tools & Environments
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,linux,kali,termux,bash,git,github,vscode,flask,docker,sqlite,mysql,mongodb,nginx,arduino,raspberrypi,powershell,postman,firebase,androidstudio,figma,aws,gcp,cloudflare,vim,nmap,metasploit" />
-</p>
+## TOOLS & ENVIRONMENT
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Operating%20System-Kali%20Linux%20%7C%20BlackArch%20%7C%20Termux%20%7C%20Ubuntu-black?style=for-the-badge&logo=kalilinux" />
-  <img src="https://img.shields.io/badge/Networking-Wireshark%20%7C%20Nmap%20%7C%20Aircrack--ng%20%7C%20Netcat-blue?style=for-the-badge&logo=wireshark" />
-  <img src="https://img.shields.io/badge/Pentest-BlackHat%20%7C%20WhiteHat%20%7C%20RedTeam-red?style=for-the-badge&logo=matrix" />
-  <img src="https://img.shields.io/badge/IoT-Arduino%20%7C%20ESP32%20%7C%20Raspberry%20Pi%20%7C%20NodeMCU-orange?style=for-the-badge&logo=arduino" />
-  <img src="https://img.shields.io/badge/Programming-Python%20%7C%20JavaScript%20%7C%20Bash%20%7C%20HTML5-yellow?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Framework-Flask%20%7C%20FastAPI%20%7C%20Node.js-green?style=for-the-badge&logo=flask" />
-  <img src="https://img.shields.io/badge/Database-MySQL%20%7C%20SQLite%20%7C%20MongoDB%20%7C%20Redis-lightgrey?style=for-the-badge&logo=mysql" />
-  <img src="https://img.shields.io/badge/Editor-VSCode%20%7C%20Vim%20%7C%20Nano%20%7C%20Android%20Studio-blueviolet?style=for-the-badge&logo=visualstudiocode" />
-  <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20GCP%20%7C%20Cloudflare%20%7C%20Firebase-yellow?style=for-the-badge&logo=cloudflare" />
-  <img src="https://img.shields.io/badge/Security%20Tools-Metasploit%20%7C%20BurpSuite%20%7C%20Hydra%20%7C%20John%20The%20Ripper-critical?style=for-the-badge&logo=metasploit" />
-  <img src="https://img.shields.io/badge/Network%20Simulation-Cisco%20Packet%20Tracer%20%7C%20GNS3%20%7C%20EVE--NG-lightblue?style=for-the-badge&logo=cisco" />
-  <img src="https://img.shields.io/badge/Virtualization-VirtualBox%20%7C%20VMware%20%7C%20QEMU-grey?style=for-the-badge&logo=vmware" />
-  <img src="https://img.shields.io/badge/AI%20%26%20Automation-Python%20%7C%20TensorFlow%20%7C%20OpenAI%20%7C%20LangChain-green?style=for-the-badge&logo=openai" />
-  <img src="https://img.shields.io/badge/Version%20Control-Git%20%7C%20GitHub%20%7C%20GitLab-orange?style=for-the-badge&logo=git" />
-  <img src="https://img.shields.io/badge/IDE-Termux%20%7C%20VSCode%20%7C%20Acode%20%7C%20Jupyter%20Notebook-9cf?style=for-the-badge&logo=visualstudiocode" />
-  <img src="https://img.shields.io/badge/Design-Figma%20%7C%20Canva%20%7C%20Photoshop%20%7C%20GIMP-purple?style=for-the-badge&logo=figma" />
-</p>
+<div align="center">
+
+[![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)](#)
+[![BlackArch](https://img.shields.io/badge/BlackArch-1A1A1A?style=for-the-badge&logo=archlinux&logoColor=white)](#)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](#)
+[![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=android&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
+[![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
+
+[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](#)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](#)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](#)
+[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](#)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](#)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](#)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](#)
+
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](#)
+[![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](#)
+[![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)](#)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](#)
+[![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)](#)
+[![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)](#)
+[![QEMU](https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge&logo=qemu&logoColor=white)](#)
+
+[![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge)](#)
+[![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge)](#)
+[![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge)](#)
+[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](#)
+[![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-000000?style=for-the-badge)](#)
+[![Hydra](https://img.shields.io/badge/Hydra-007396?style=for-the-badge)](#)
+[![Hashcat](https://img.shields.io/badge/Hashcat-333333?style=for-the-badge)](#)
+[![John the Ripper](https://img.shields.io/badge/John_the_Ripper-CC0000?style=for-the-badge)](#)
+[![SQLmap](https://img.shields.io/badge/SQLmap-CC0000?style=for-the-badge)](#)
+[![Nikto](https://img.shields.io/badge/Nikto-555555?style=for-the-badge)](#)
+[![Gobuster](https://img.shields.io/badge/Gobuster-000000?style=for-the-badge)](#)
+[![Wifite](https://img.shields.io/badge/Wifite-1A1A1A?style=for-the-badge)](#)
+[![Bettercap](https://img.shields.io/badge/Bettercap-222222?style=for-the-badge)](#)
+[![Amass](https://img.shields.io/badge/Amass-005571?style=for-the-badge)](#)
+[![Subfinder](https://img.shields.io/badge/Subfinder-3333CC?style=for-the-badge)](#)
+[![theHarvester](https://img.shields.io/badge/theHarvester-000000?style=for-the-badge)](#)
+[![Recon-ng](https://img.shields.io/badge/Recon--ng-444444?style=for-the-badge)](#)
+[![Kismet](https://img.shields.io/badge/Kismet-1A1A2E?style=for-the-badge)](#)
+[![tcpdump](https://img.shields.io/badge/tcpdump-003366?style=for-the-badge)](#)
+[![Netcat](https://img.shields.io/badge/Netcat-000000?style=for-the-badge)](#)
+
+[![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](#)
+[![GNS3](https://img.shields.io/badge/GNS3-009933?style=for-the-badge)](#)
+[![EVE-NG](https://img.shields.io/badge/EVE--NG-FF6600?style=for-the-badge)](#)
+[![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](#)
+[![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)](#)
+[![ESP32](https://img.shields.io/badge/ESP32-333333?style=for-the-badge)](#)
+[![NodeMCU](https://img.shields.io/badge/NodeMCU-333333?style=for-the-badge)](#)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](#)
+[![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)](#)
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](#)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](#)
+[![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](#)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](#)
+[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](#)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](#)
+[![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)](#)
+
+</div>
 
 ---
 
-### 📈 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raffaelhub&show_icons=true&theme=matrix&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raffaelhub&theme=matrix&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raffaelhub&layout=compact&theme=matrix&hide_border=true" />
-</p>
+## CERTIFICATIONS
+
+<div align="center">
+
+| # | Certification | Issuer | Badge |
+|:---:|:---|:---|:---:|
+| 01 | CC Course Conclusion | ISC2 | [![ISC2](https://img.shields.io/badge/ISC2-00A4A6?style=flat-square&logo=isc2&logoColor=white)](#) |
+| 02 | Classical Cryptography for Beginner | Cyberacademy.id | [![Cyberacademy](https://img.shields.io/badge/Cyberacademy.id-0066cc?style=flat-square)](#) |
+| 03 | Introduction to Darkweb, Anonymity and Cryptocurrency | EC-Council | [![EC-Council](https://img.shields.io/badge/EC--Council-cc0000?style=flat-square)](#) |
+| 04 | ChatGPT for Cybersecurity | Simplilearn | [![Simplilearn](https://img.shields.io/badge/Simplilearn-ff6600?style=flat-square)](#) |
+| 05 | Cybersecurity Essentials with Kali Linux | BISA AI | [![BISA AI](https://img.shields.io/badge/BISA%20AI-009900?style=flat-square)](#) |
+| 06 | Cyber Threat Intelligence 101 | arcX | [![arcX](https://img.shields.io/badge/arcX-1a1a2e?style=flat-square)](#) |
+| 07 | Cybersecurity Fundamentals | IBM SkillsBuild | [![IBM](https://img.shields.io/badge/IBM%20SkillsBuild-052FAD?style=flat-square&logo=ibm&logoColor=white)](#) |
+| 08 | CompTIA Security (listed) | Cursa | [![CompTIA](https://img.shields.io/badge/Cursa%20%2F%20CompTIA-555555?style=flat-square)](#) |
+| 09 | Ethical Hacker | Cisco Networking Academy | [![Cisco](https://img.shields.io/badge/Cisco%20NetAcad-1BA0D7?style=flat-square&logo=cisco&logoColor=white)](#) |
+| 10 | Ethical Hacking: Introduction | Cybrary | [![Cybrary](https://img.shields.io/badge/Cybrary-333333?style=flat-square)](#) |
+| 11 | Introduction to Cybersecurity | Cisco Networking Academy | [![Cisco](https://img.shields.io/badge/Cisco%20NetAcad-1BA0D7?style=flat-square&logo=cisco&logoColor=white)](#) |
+| 12 | Cybersecurity for Business | EC-Council | [![EC-Council](https://img.shields.io/badge/EC--Council-cc0000?style=flat-square)](#) |
+| 13 | Introduction to Cybersecurity | Cyberacademy.id | [![Cyberacademy](https://img.shields.io/badge/Cyberacademy.id-0066cc?style=flat-square)](#) |
+| 14 | IT Security — Google Careers | Cursa | [![Google](https://img.shields.io/badge/Google%20%2F%20Cursa-4285F4?style=flat-square&logo=google&logoColor=white)](#) |
+| 15 | Google Analytics Certification | Google | [![Google](https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=googleanalytics&logoColor=white)](#) |
+| 16 | Fortinet Certified Associate in Cybersecurity | Fortinet | [![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=flat-square&logo=fortinet&logoColor=white)](#) |
+| 17 | Prompt Engineer | Codecademy | [![Codecademy](https://img.shields.io/badge/Codecademy-1F4056?style=flat-square&logo=codecademy&logoColor=white)](#) |
+| 18 | DevSecOps in AWS Course | Codecademy | [![Codecademy](https://img.shields.io/badge/Codecademy%20%2F%20AWS-1F4056?style=flat-square&logo=codecademy&logoColor=white)](#) |
+| 19 | Securing and Protecting Data | Amazon | [![Amazon](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)](#) |
+| 20 | Ethical Hacker for Dummies | Komdigi / Kominfo | [![Komdigi](https://img.shields.io/badge/Komdigi%20%2F%20Kominfo-CE1126?style=flat-square)](#) |
+| 21 | CyberSecurity | ADBI Institute | [![ADBI](https://img.shields.io/badge/ADBI%20Institute-003366?style=flat-square)](#) |
+| 22 | Certificate of Participation | HackerVerse / EC-Council | [![HackerVerse](https://img.shields.io/badge/HackerVerse%20%2F%20EC--Council-cc0000?style=flat-square)](#) |
+| 23 | How to Prevent E-Waste? | United Nations | [![UN](https://img.shields.io/badge/United%20Nations-009EDB?style=flat-square&logo=unitednations&logoColor=white)](#) |
+| 24 | SQL Basic | HackerRank | [![HackerRank](https://img.shields.io/badge/HackerRank%20SQL%20Basic-00EA64?style=flat-square&logo=hackerrank&logoColor=black)](#) |
+| 25 | SQL Intermediate | HackerRank | [![HackerRank](https://img.shields.io/badge/HackerRank%20SQL%20Intermediate-00EA64?style=flat-square&logo=hackerrank&logoColor=black)](#) |
+| 26 | SQL Advanced | HackerRank | [![HackerRank](https://img.shields.io/badge/HackerRank%20SQL%20Advanced-00EA64?style=flat-square&logo=hackerrank&logoColor=black)](#) |
+| 27 | Basic AI Learning | Dicoding / Indosat / Google Cloud | [![Dicoding](https://img.shields.io/badge/Dicoding%20%2F%20Indosat%20%2F%20GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)](#) |
+
+</div>
 
 ---
 
-### ⚡ Fun Facts & Hidden Badges
-<p align="center">
-  <img src="https://img.shields.io/badge/Made%20With-Termux-green?style=flat-square&logo=android" />
-  <img src="https://img.shields.io/badge/Typing%20Speed-100%20WPM-blue?style=flat-square&logo=codeforces" />
-  <img src="https://img.shields.io/badge/Coffee-Powered-black?style=flat-square&logo=buymeacoffee" />
-  <img src="https://img.shields.io/badge/Night%20Mode-Always%20On-purple?style=flat-square&logo=visualstudiocode" />
-  <img src="https://img.shields.io/badge/Brain%20Uptime-99.9%25-orange?style=flat-square&logo=serverless" />
-  <img src="https://img.shields.io/badge/Mindset-Never%20Give%20Up-red?style=flat-square&logo=matrix" />
-</p>
+## GITHUB ANALYTICS
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=TheRealRafael00&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=ededed&text_color=888888&icon_color=ededed&include_all_commits=true&count_private=true" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRealRafael00&layout=compact&theme=github_dark&hide_border=true&bg_color=0d0d0d&title_color=ededed&text_color=888888" height="160" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=TheRealRafael00&theme=dark&hide_border=true&background=0d0d0d&stroke=1c1c1c&ring=ededed&fire=ededed&currStreakLabel=ededed&sideLabels=888888&dates=555555&sideNums=ededed&currStreakNum=ededed" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TheRealRafael00&bg_color=0d0d0d&color=888888&line=ededed&point=ffffff&hide_border=true" />
+
+</div>
 
 ---
 
-### 📬 Contact
-- **Email:** privacyisdignity@gmail.com  
-- **Telegram:** [@mumyzR](https://t.me/mumyzR)
-- **Website:** [raffaelhub.my.id](https://www.raffaelhub.my.id)  
+## CONTRIBUTION SNAKE
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/TheRealRafael00/TheRealRafael00/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
 
 ---
 
-### ⚖️ License
-© 2025 Raffael Putra Hermawan. All Rights Reserved. No content from this repository may be copied, modified, or redistributed without explicit written permission.
+## CONTACT
+
+<div align="center">
+
+| Channel | Detail |
+|:---|:---|
+| [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](#) | raffael.dev.sec@gmail.com |
+| [![Website](https://img.shields.io/badge/Website-000000?style=flat-square&logo=googlechrome&logoColor=white)](#) | raffaelhub.my.id |
+| [![GitHub](https://img.shields.io/badge/GitHub%20Primary-181717?style=flat-square&logo=github&logoColor=white)](#) | @TheRealRafael00 |
+| [![GitHub](https://img.shields.io/badge/GitHub%20Secondary-181717?style=flat-square&logo=github&logoColor=white)](#) | @faelll14 |
+| [![Response](https://img.shields.io/badge/Response%20Time-Within%2048%20Hours-555555?style=flat-square)](#) | Within 48 hours |
+| [![Open To](https://img.shields.io/badge/Open%20To-Internships%20%7C%20Collaborations%20%7C%20CTF%20Teams%20%7C%20Research-0a84ff?style=flat-square)](#) | Internships, Collaborations, CTF Teams, Research Projects |
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Minecraft&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!;Stay+curious,+stay+secure.">
-</p>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&pause=2000&color=555555&background=00000000&center=true&vCenter=true&width=600&lines=Stay+curious.+Stay+secure.;Raffael+Putra+Hermawan+%C2%A9+2026" alt="Footer" />
+
+<br/>
+
+[![License](https://img.shields.io/badge/LICENSE-All%20Rights%20Reserved-cc0000?style=flat-square)](https://raffaelhub.my.id)
+
+```
+© 2026 Raffael Putra Hermawan. All Rights Reserved.
+No content from this repository may be copied, modified, or redistributed
+without explicit written permission.
+```
+
+</div>
