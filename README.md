@@ -1,151 +1,149 @@
-<!-- Raffael Putra Hermawan Advanced GitHub Portfolio -->
+<!-- Raffael Putra Hermawan | Advanced GitHub README -->
 
+<h1 align="center">Raffael Putra Hermawan</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=45&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=900&lines=Raffael+Putra+Hermawan;Cybersecurity+Engineer;Ethical+Hacker+%7C+OSINT+Specialist;Developer+of+Xylen+Project;Red+Team+Operations" />
+Cybersecurity Enthusiast | Ethical Hacking | OSINT | Python Developer
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile-Active-success?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Specialization-Cybersecurity%20%7C%20OSINT-critical?style=for-the-badge&logo=kalilinux" />
-  <img src="https://img.shields.io/badge/Stack-Python%20%7C%20HTML%20%7C%20JS-yellow?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Environment-Termux%20%7C%20Linux-blue?style=for-the-badge&logo=linux" />
-  <img src="https://komarev.com/ghpvc/?username=raffaelhub&label=Visitors&color=red&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/raffaelhub?style=for-the-badge&logo=github&label=Followers" />
+  <img src="https://komarev.com/ghpvc/?username=raffaelhub&label=Profile%20Views&color=red&style=flat" />
+  <img src="https://img.shields.io/github/followers/raffaelhub?label=Followers&style=flat&logo=github" />
 </p>
 
 ---
 
-<h2 align="center">ABOUT</h2>
+## PROFILE
+
+| Key | Value |
+|-----|------|
+| Name | Raffael Putra Hermawan |
+| Alias | Ell |
+| Role | Cybersecurity Enthusiast |
+| Focus | Ethical Hacking, OSINT, IoT Security, Automation |
+| Language | Python |
+| Environment | Linux, Termux |
+| Location | Indonesia |
+
+---
+
+## ABOUT
+
+I am a student focused on cybersecurity and development.  
+Started from experimenting with Termux in Grade 7 and grew into deeper cybersecurity learning.
+
+Current focus:
+- Offensive Security
+- OSINT Intelligence
+- Linux Systems
+- Networking & Wireless
+- IoT Security
+- Python Automation
+
+---
+
+## CORE SKILLS
+
+| Domain | Description |
+|--------|------------|
+| Ethical Hacking | Vulnerability scanning, recon, exploitation simulation |
+| OSINT | Data tracking, metadata analysis, intelligence gathering |
+| IoT Security | Embedded system hardening |
+| Cyber Intelligence | Threat profiling, behavior analysis |
+| Development | Python automation, backend tools |
+
+---
+
+## SKILL PROGRESS
+
+```python
+skills = {
+    "Kali Linux": "30%",
+    "Termux": "90%",
+    "Cyber Intelligence": "60%",
+    "Ethical Hacking": "50%",
+    "OSINT": "70%",
+    "IoT Security": "60%",
+    "Python": "75%",
+    "Social Engineering": "72%"
+}
+``` id="x1p9ka"
+
+---
+
+## FLAGSHIP PROJECT
+
+### Xylen Project
+
+| Module | Description |
+|--------|------------|
+| OSINT Search | Cross-platform intelligence gathering |
+| FileInt | Metadata & EXIF analysis |
+| QRGen | Advanced QR generator |
+| PhoneInt | Phone intelligence |
+| URL Checker | IP & domain inspection |
+| AutBugHunt | Automated vulnerability scanning |
+
+---
+
+## CERTIFICATIONS
+
+| Certificate | Issuer | Preview |
+|------------|--------|---------|
+| CC Course Conclusion | ISC2 | <img src="my.jpg" width="120"/> |
+| Classical Cryptography | Cyberacademy | <img src="myy.jpg" width="120"/> |
+| Dark Web & Anonymity | EC-Council | <img src="myyy.jpg" width="120"/> |
+| ChatGPT Cybersecurity | Simplilearn | <img src="myyyy.jpg" width="120"/> |
+| Cybersecurity Kali Linux | BISA AI | <img src="myyyyy.jpg" width="120"/> |
+| Threat Intelligence | arcX | <img src="myyyyyy.jpg" width="120"/> |
+| Cybersecurity Fundamentals | IBM | <img src="myyyyyyy.jpg" width="120"/> |
+| CompTIA Security+ | Cursa | <img src="myyyyyyyy.jpg" width="120"/> |
+| Ethical Hacker | Cisco | <img src="myyyyyyyyy.jpg" width="120"/> |
+| Ethical Hacking Intro | Cybrary | <img src="myyyyyyyyyy.jpg" width="120"/> |
+| Intro Cybersecurity | Cisco | <img src="myyyyyyyyyyy.jpg" width="120"/> |
+| Cybersecurity Business | EC-Council | <img src="myyyyyyyyyyyy.jpg" width="120"/> |
+| Intro Cybersecurity | Cyberacademy | <img src="myyyyyyyyyyyyy.jpg" width="120"/> |
+| Google IT Security | Cursa | <img src="myyyyyyyyyyyyyy.jpg" width="120"/> |
+| Google Analytics | Google | <img src="myyyyyyyyyyyyyyy.jpg" width="120"/> |
+| Fortinet Associate | Fortinet | <img src="myyyyyyyyyyyyyyyy.jpg" width="120"/> |
+| Prompt Engineer | Codecademy | <img src="myyyyyyyyyyyyyyyyy.jpg" width="120"/> |
+| DevSecOps AWS | Codecademy | <img src="myyyyyyyyyyyyyyyyyy.jpg" width="120"/> |
+| Data Protection | Amazon | <img src="myyyyyyyyyyyyyyyyyyy.jpg" width="120"/> |
+| Ethical Hacker | Kominfo | <img src="myyyyyyyyyyyyyyyyyyyy.jpg" width="120"/> |
+| CyberSecurity | ADBI | <img src="myyyyyyyyyyyyyyyyyyyyy.jpg" width="120"/> |
+| Participation | HackerVerse | <img src="myyyyyyyyyyyyyyyyyyyyyy.jpg" width="120"/> |
+| E-Waste Awareness | UN | <img src="myyyyyyyyyyyyyyyyyyyyyyy.jpg" width="120"/> |
+| SQL Basic | HackerRank | <img src="myyyyyyyyyyyyyyyyyyyyyyyy.jpg" width="120"/> |
+| SQL Intermediate | HackerRank | <img src="myyyyyyyyyyyyyyyyyyyyyyyyy.jpg" width="120"/> |
+| SQL Advanced | HackerRank | <img src="myyyyyyyyyyyyyyyyyyyyyyyyyy.jpg" width="120"/> |
+| AI Basics | Dicoding | <img src="myyyyyyyyyyyyyyyyyyyyyyyyyyy.jpg" width="120"/> |
+
+---
+
+## TECH STACK
+
+Python | JavaScript | HTML | Linux | Kali Linux | Termux | Bash Git | Flask | Docker | MySQL | MongoDB | Nginx Arduino | Raspberry Pi | AWS | GCP | Cloudflare
+
+---
+
+## GITHUB STATS
 
 <p align="center">
-Cybersecurity Enthusiast focused on offensive security, OSINT intelligence, and automation engineering.<br>
-Actively developing advanced tools that integrate reconnaissance, exploitation simulation, and intelligence gathering.<br>
-Creator of Xylen Project, a modular OSINT and penetration testing automation system built in Python.
+  <img src="https://github-readme-stats.vercel.app/api?username=raffaelhub&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raffaelhub&hide_border=true" />
 </p>
 
 ---
 
-<h2 align="center">CORE EXPERTISE</h2>
+## CONTACT
 
-<p align="center">
-<img src="https://img.shields.io/badge/Ethical%20Hacking-Vulnerability%20Assessment-red?style=for-the-badge" />
-<img src="https://img.shields.io/badge/OSINT-Intelligence%20Automation-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/IoT-Security%20Engineering-orange?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Python-Backend%20Development-yellow?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Cyber%20Intelligence-Threat%20Analysis-green?style=for-the-badge" />
-</p>
+| Platform | Value |
+|----------|------|
+| Email | raffael.dev.sec@gmail.com |
+| Website | https://www.raffaelhub.my.id |
 
 ---
 
-<h2 align="center">FLAGSHIP PROJECT</h2>
+## LICENSE
 
-<h3 align="center">Xylen Project</h3>
-
-<p align="center">
-Advanced OSINT and Pentesting Automation System
-</p>
-
-<table align="center">
-<tr><td>OSINT Search</td><td>Cross-platform intelligence aggregation</td></tr>
-<tr><td>FileInt</td><td>Metadata extraction and forensic analysis</td></tr>
-<tr><td>QRGen</td><td>Advanced QR generator with customization</td></tr>
-<tr><td>PhoneInt</td><td>Phone intelligence and ISP lookup</td></tr>
-<tr><td>URL Analyzer</td><td>Deep inspection and DNS/IP resolution</td></tr>
-<tr><td>Auto Bug Hunter</td><td>Automated vulnerability probing engine</td></tr>
-</table>
-
----
-
-<h2 align="center">CERTIFICATIONS</h2>
-
-<p align="center">
-<img src="https://img.shields.io/badge/ISC2-CC%20Certified-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Cisco-Ethical%20Hacker-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/EC--Council-Darkweb%20%26%20Anonymity-red?style=for-the-badge" />
-<img src="https://img.shields.io/badge/IBM-Cybersecurity%20Fundamentals-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Fortinet-Cybersecurity%20Associate-red?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Amazon-Data%20Security-yellow?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Google-IT%20Security-lightgrey?style=for-the-badge" />
-<img src="https://img.shields.io/badge/HackerRank-SQL%20Advanced-orange?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Codecademy-DevSecOps-purple?style=for-the-badge" />
-<img src="https://img.shields.io/badge/UN-E--Waste%20Awareness-blue?style=for-the-badge" />
-</p>
-
----
-
-<h2 align="center">SKILL MATRIX</h2>
-
-<table align="center">
-<tr><td>Kali Linux</td><td>30%</td></tr>
-<tr><td>Termux</td><td>90%</td></tr>
-<tr><td>Cyber Intelligence</td><td>60%</td></tr>
-<tr><td>Ethical Hacking</td><td>50%</td></tr>
-<tr><td>OSINT</td><td>70%</td></tr>
-<tr><td>IoT Security</td><td>60%</td></tr>
-<tr><td>Python Development</td><td>75%</td></tr>
-<tr><td>Social Engineering</td><td>72%</td></tr>
-</table>
-
----
-
-<h2 align="center">TECH STACK</h2>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,js,html,css,linux,kali,bash,git,github,vscode,flask,docker,mysql,mongodb,nginx,arduino,raspberrypi,aws,gcp,cloudflare" />
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Security-Metasploit%20%7C%20BurpSuite%20%7C%20Nmap-critical?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Networking-Wireshark%20%7C%20Aircrack--ng-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Virtualization-VMware%20%7C%20VirtualBox-grey?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20GCP-yellow?style=for-the-badge" />
-</p>
-
----
-
-<h2 align="center">GITHUB ANALYTICS</h2>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=raffaelhub&show_icons=true&theme=matrix&hide_border=true" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=raffaelhub&theme=matrix&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raffaelhub&layout=compact&theme=matrix&hide_border=true" />
-</p>
-
----
-
-<h2 align="center">SYSTEM PROFILE</h2>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Operating%20System-Kali%20Linux%20%7C%20Ubuntu-black?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Focus-Red%20Team%20Operations-red?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Automation-Python%20Engine-green?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AI-Integrated-blue?style=for-the-badge" />
-</p>
-
----
-
-<h2 align="center">CONTACT</h2>
-
-<p align="center">
-<a href="mailto:raffael.dev.sec@gmail.com">
-<img src="https://img.shields.io/badge/Email-raffael.dev.sec%40gmail.com-red?style=for-the-badge&logo=gmail" />
-</a>
-<a href="https://www.raffaelhub.my.id">
-<img src="https://img.shields.io/badge/Website-raffaelhub.my.id-blue?style=for-the-badge&logo=googlechrome" />
-</a>
-</p>
-
----
-
-<h2 align="center">LICENSE</h2>
-
-<p align="center">
-© 2025 Raffael Putra Hermawan. All Rights Reserved.<br>
-Unauthorized copying, modification, or redistribution is strictly prohibited.
-</p>
-
----
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=ACCESS+GRANTED;SYSTEM+ACTIVE;SECURITY+MODE+ENABLED" />
-</p>
+© 2025 Raffael Putra Hermawan  
+All rights reserved.
