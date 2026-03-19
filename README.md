@@ -69,16 +69,44 @@ open_to      :
 
 ### Skill Matrix
 
-```
-Termux Commands       ████████████████████  90%
-Python Programming    ███████████████░░░░░  75%
-Social Engineering    ██████████████░░░░░░  72%
-OSINT                 ██████████████░░░░░░  70%
-Cyber Intelligence    ████████████░░░░░░░░  60%
-IoT Systems           ████████████░░░░░░░░  60%
-Ethical Hacking       ██████████░░░░░░░░░░  50%
-Kali Linux Commands   ██████░░░░░░░░░░░░░░  30%
-```
+<div align=center>
+
+| Skill | Level |
+|:--|:--|
+| Termux & Mobile Linux | ![90%](https://progress-bar.xyz/90/?scale=100&width=200&color=ededed&suffix=%) |
+| AI Prompt Engineering | ![80%](https://progress-bar.xyz/80/?scale=100&width=200&color=ededed&suffix=%) |
+| Python Programming | ![75%](https://progress-bar.xyz/75/?scale=100&width=200&color=ededed&suffix=%) |
+| Social Engineering | ![72%](https://progress-bar.xyz/72/?scale=100&width=200&color=ededed&suffix=%) |
+| OSINT & Reconnaissance | ![70%](https://progress-bar.xyz/70/?scale=100&width=200&color=ededed&suffix=%) |
+| Bash Scripting | ![70%](https://progress-bar.xyz/70/?scale=100&width=200&color=ededed&suffix=%) |
+| Database (SQL / NoSQL) | ![70%](https://progress-bar.xyz/70/?scale=100&width=200&color=ededed&suffix=%) |
+| Network Analysis | ![65%](https://progress-bar.xyz/65/?scale=100&width=200&color=ededed&suffix=%) |
+| Flask / FastAPI | ![65%](https://progress-bar.xyz/65/?scale=100&width=200&color=ededed&suffix=%) |
+| Cyber Intelligence | ![60%](https://progress-bar.xyz/60/?scale=100&width=200&color=ededed&suffix=%) |
+| IoT Systems & Embedded | ![60%](https://progress-bar.xyz/60/?scale=100&width=200&color=ededed&suffix=%) |
+| Digital Forensics | ![60%](https://progress-bar.xyz/60/?scale=100&width=200&color=ededed&suffix=%) |
+| Web Application Security | ![55%](https://progress-bar.xyz/55/?scale=100&width=200&color=ededed&suffix=%) |
+| Wireless Security | ![55%](https://progress-bar.xyz/55/?scale=100&width=200&color=ededed&suffix=%) |
+| Ethical Hacking & Pentest | ![50%](https://progress-bar.xyz/50/?scale=100&width=200&color=ededed&suffix=%) |
+| Kali Linux Commands | ![30%](https://progress-bar.xyz/30/?scale=100&width=200&color=ededed&suffix=%) |
+
+</div>
+
+> This is a partial overview. Full skill set spans cybersecurity, development, networking, AI integration, and systems — continuously expanding.
+
+<br/>
+
+### Flagship Project — Custom AI Model
+
+<img align=right width=280 src=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWUxaHFhdXg1bzhubGFienVmbXo5ZnloYWhxeDJ6eGN4djZ6MDdpZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEjI6SIIHBdRxXI40/giphy.gif />
+
+Currently building a **custom AI model from scratch** — the most ambitious project in this portfolio. Trained on a massive token dataset, engineered for a single goal: **maximum intelligence in minimum size**.
+
+The target is a model that is fully **portable**, lightweight enough to run on constrained hardware, yet powerful enough to rival performance close to large frontier models like **Claude Sonnet**.
+
+
+
+<br clear=right/>
 
 ### AI Tools Proficiency
 
