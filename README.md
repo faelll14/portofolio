@@ -16,7 +16,7 @@
 <img alt="TheRealRafael00 followers on GitHub" src="https://img.shields.io/github/followers/TheRealRafael00?style=flat-square&amp;label=TheRealRafael00%20followers&amp;labelColor=0b1020&amp;color=2a3556&amp;logo=github&amp;logoColor=f2c14e">
 <img alt="faelll14 followers on GitHub" src="https://img.shields.io/github/followers/faelll14?style=flat-square&amp;label=faelll14%20followers&amp;labelColor=0b1020&amp;color=2a3556&amp;logo=github&amp;logoColor=f2c14e">
 </p>
-<img src="assets/stats.svg" alt="19 responsible disclosures, 5 awards, 33 certifications, 4 languages" width="100%">
+<img src="assets/stats.svg" alt="19 responsible disclosures, 5 awards, 34 certifications, 4 languages" width="100%">
 <p><a href="#about">About</a> &nbsp;&middot;&nbsp; <a href="#skills">Skills</a> &nbsp;&middot;&nbsp; <a href="#projects">Projects</a> &nbsp;&middot;&nbsp; <a href="#findings">Findings</a> &nbsp;&middot;&nbsp; <a href="#awards">Awards</a> &nbsp;&middot;&nbsp; <a href="#certifications">Certifications</a> &nbsp;&middot;&nbsp; <a href="#contact">Contact</a></p>
 <img src="assets/terminal.svg" alt="Terminal: whoami, focus, responsible disclosure, bug status" width="100%">
 </div>
@@ -235,17 +235,17 @@ Recognition earned in the field. Awards and letters of appreciation from governm
 
 ## Certifications
 
-Courses, exams and seminars. 33 certificates from global providers and national programs, grouped by topic. The documents themselves are shown in full on the website, where they can be searched by title or provider.
+Courses, exams and seminars. 34 certificates from global providers and national programs, grouped by topic. The documents themselves are shown in full on the website, where they can be searched by title or provider.
 
 <p><a href="https://raffaelsec.my.id/#certifications"><img alt="view certifications on raffaelsec.my.id" src="https://img.shields.io/badge/documents-view%20certifications%20on%20raffaelsec.my.id-f2c14e?style=flat-square&amp;labelColor=0b1020&amp;logo=googlechrome&amp;logoColor=f2c14e"></a></p>
 
 ### Cybersecurity foundations
 
-<p><img src="assets/icons/shield.svg" alt="" width="28" height="28"> <img alt="9 certificates" src="https://img.shields.io/badge/9%20certificates-2a3556?style=flat-square"></p>
+<p><img src="assets/icons/shield.svg" alt="" width="28" height="28"> <img alt="10 certificates" src="https://img.shields.io/badge/10%20certificates-2a3556?style=flat-square"></p>
 
 <table width="100%">
 <tr><th align="left">#</th><th align="left">Certification</th><th align="left">Provider</th></tr>
-<tr><td><code>01</code></td><td><b>CC Course Conclusion</b></td><td>ISC2</td></tr><tr><td><code>07</code></td><td><b>Cybersecurity Fundamentals</b></td><td>IBM Skills Build</td></tr><tr><td><code>08</code></td><td><b>CompTIA Security+</b></td><td>Cursa</td></tr><tr><td><code>11</code></td><td><b>Introduction to Cybersecurity</b></td><td>Cisco Networking Academy</td></tr><tr><td><code>12</code></td><td><b>Cybersecurity for Business</b></td><td>EC-COUNCIL</td></tr><tr><td><code>13</code></td><td><b>Introduction to Cybersecurity</b></td><td>Cyberacademy.id</td></tr><tr><td><code>14</code></td><td><b>IT Security by Google Careers</b></td><td>Cursa</td></tr><tr><td><code>16</code></td><td><b>Fortinet Certified Associate in Cybersecurity</b></td><td>Fortinet</td></tr><tr><td><code>20</code></td><td><b>CyberSecurity</b></td><td>ADBI Institute</td></tr>
+<tr><td><code>01</code></td><td><b>CC Course Conclusion</b></td><td>ISC2</td></tr><tr><td><code>07</code></td><td><b>Cybersecurity Fundamentals</b></td><td>IBM Skills Build</td></tr><tr><td><code>08</code></td><td><b>CompTIA Security+</b></td><td>Cursa</td></tr><tr><td><code>11</code></td><td><b>Introduction to Cybersecurity</b></td><td>Cisco Networking Academy</td></tr><tr><td><code>12</code></td><td><b>Cybersecurity for Business</b></td><td>EC-COUNCIL</td></tr><tr><td><code>13</code></td><td><b>Introduction to Cybersecurity</b></td><td>Cyberacademy.id</td></tr><tr><td><code>14</code></td><td><b>IT Security by Google Careers</b></td><td>Cursa</td></tr><tr><td><code>16</code></td><td><b>Fortinet Certified Associate in Cybersecurity</b></td><td>Fortinet</td></tr><tr><td><code>20</code></td><td><b>CyberSecurity</b></td><td>ADBI Institute</td></tr><tr><td><code>34</code></td><td><b>Certified Cybersecurity Educator Professional (CCEP)</b></td><td>Red Team Leaders</td></tr>
 </table>
 
 ### Ethical hacking and offensive security
